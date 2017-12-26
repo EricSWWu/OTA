@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ota.netcent.cn:8443/Apps/Zhx/Zhx.ipa</string>
+					<string>https://ota.netcent.cn:8443/Apps/ZhenHXCSR/ZhenHXCSR.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ota.netcent.cn:8443/Images/Zhx/57x57.png</string>
+					<string>https://ota.netcent.cn:8443/Images/ZhenHXCSR/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ota.netcent.cn:8443/Images/Zhx/512x512.png</string>
+					<string>https://ota.netcent.cn:8443/Images/ZhenHXCSR/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
